@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AZMASSANGE</string>
+    <string name="app_tagline">Private • Simple • Connected</string>
+    <string name="login_title">Private messaging\nfor everyone.</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="continue_btn">Continue</string>
+    <string name="otp_title">Enter verification code</string>
+    <string name="otp_resend">Resend code</string>
+    <string name="verify_btn">Verify</string>
+    <string name="profile_setup_title">Profile Setup</string>
+    <string name="display_name">Display Name</string>
+    <string name="username">Username (optional)</string>
+    <string name="bio">Bio</string>
+    <string name="save_btn">Save</string>
+    <string name="chats_tab">Chats</string>
+    <string name="stories_tab">Stories</string>
+    <string name="calls_tab">Calls</string>
+    <string name="contacts_tab">Contacts</string>
+    <string name="profile_tab">Profile</string>
+    <string name="no_conversations_title">No conversations yet</string>
+    <string name="no_conversations_desc">Start a private conversation\nwith someone in your contacts.</string>
+    <string name="new_chat">New Chat</string>
+    <string name="no_stories">No stories yet</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="search_hint">Search chats, messages &amp; contacts</string>
+    <string name="phone_not_found">Nomor tidak terdaftar di Azmassange.</string>
+</resources>
